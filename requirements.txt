@@ -1,0 +1,4 @@
+huggingface-hub>=0.20.0
+python-dotenv
+pydantic
+streamlit
